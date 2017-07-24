@@ -1,4 +1,6 @@
-###dde-desktop
+### dde-desktop
+
+[![Snap Status](https://build.snapcraft.io/badge/suoko/dde-desktop.svg)](https://build.snapcraft.io/user/suoko/dde-desktop)
 
 dde-desktop is core component of DDE.
 
